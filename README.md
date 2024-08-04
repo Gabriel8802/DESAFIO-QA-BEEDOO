@@ -61,16 +61,16 @@ Motivo:
 Adicionar um campo para o preço permite que os proprietários definam e exibam o valor dos cursos, o que é essencial para a comercialização e a gestão dos produtos oferecidos.
 
 
-USERS STORY 6    LISTAR CURSOS    ID = BDO-0006
+USERS STORY 6    OBRIGATORIEDADE DE DADOS    ID = BDO-0006
 
-Como usuário do site,
-Eu quero visualizar os cursos adicionados ao site em forma de lista(s),
-Para que eu tenha uma visão geral de todos os cursos ofertados.
+Como proprietário de um ou mais cursos.
+Eu preciso ter a obrigatoriedade de inserir as informações mais importantes do produto,
+Para que não tenham produtos sem descrição e sem suas informações principais. 
 
 
 Decisões Tomadas
 Motivo:
-Permitir que os usuários visualizem todos os cursos oferecidos em uma lista facilita a exploração e seleção dos cursos disponíveis, proporcionando uma melhor experiência ao usuário.
+Garantir que todos os cursos tenham informações completas e precisas é crucial para a qualidade e a apresentação dos cursos no site. Isso ajuda a evitar a publicação de cursos com informações ausentes ou incorretas, melhorando a experiência do usuário e a eficácia da plataforma.
 
 
 USER STORY 7    PESQUISAR CURSOS   ID BDO-0007
